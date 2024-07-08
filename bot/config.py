@@ -9,20 +9,20 @@ dirName = os.path.basename(dirPath)
 
 
 class TG_CONFIG:
-    api_id = 
+    api_id = 27190467
 
-    api_hash = ""
+    api_hash = "ff6bc6ad2faba520f426cf04ca7f5773"
 
-    bot_token = ""
+    bot_token = "7267043935:AAGnMWOzmGUb7rx7Z8C2d8W3ew42k-1xyQA"
 
     #DEVS or #OWNERS
-    sudo_users = [1984763765, 6360672597]
+    sudo_users = [6066102279, 7102604217, 6224047735, 898535201, 5574593875, 1347433700]
 
-    session = "rv_web_dl_bot"
+    session = "sharktplaybot"
 
-    bot_creater = "Rv"  # Don't Remove if you Respect the DEV
+    bot_creater = "Lost"  # Don't Remove if you Respect the DEV
 
-    bot_creater_id = "@rv2006rv"  # Don't Remove if you Respect the DEV
+    bot_creater_id = "@LostIddd"  # Don't Remove if you Respect the DEV
 
 
 class UPLOAD_CONGIF:
@@ -87,8 +87,12 @@ class FILENAME_CONFIG:
 
     #Dict made to add Group Tag according to the user requesting to DL (according to there TG ID) if not in list then takes the default_group_tag
     group_tag_mapping = {
-        '1984763765': 'Conan76',
-        '6360672597' : 'RV'
+        '6066102279': 'SharkToonsIndia',
+        '7102604217': 'SharkToonsIndia',
+        '6224047735': 'SharkToonsIndia',
+        '898535201': 'SharkToonsIndia',
+        '5574593875': 'SharkToonsIndia',
+        '1347433700': 'SharkToonsIndia',
     }
 
 
@@ -107,7 +111,7 @@ A TG WEB-DL Bot</b>
 
 > <code>{}</code>
 
-<b>Made by @conan7612</b>
+<b>Made by @LostIddd</b>
 """
 
 SIMPLE_CAPTION = '''<code>{}</code>'''
